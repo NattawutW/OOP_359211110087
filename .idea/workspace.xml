@@ -66,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalGrade.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalGrade.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab3/CalGrade.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -79,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSwtich.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestSwtich.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab3/TestSwtich.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -441,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512528582564</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Calgrade">
+      <created>1512528610257</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1512528610257</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -484,7 +491,8 @@
     <MESSAGE value="Testing Variables" />
     <MESSAGE value="Testing Loop While" />
     <MESSAGE value="TestCondition" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestCondition" />
+    <MESSAGE value="Calgrade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calgrade" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -569,14 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab3/TestSwtich.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab3/TestLoopFor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -609,6 +609,14 @@
             <element signature="e#0#1698#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab3/TestSwtich.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>

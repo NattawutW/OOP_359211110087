@@ -9,8 +9,17 @@ public class OverLoadMethod {
         System.out.println(x + y);
         int t = number + x + y;
     }
+    public static void sum(){
+        System.out.println("Hello" + number);
+    }
+    public static void sum(int x,int y,int z){
+        System.out.println(x + y + z + number);
+    }
 
     public static void main(String[] args) {
+        sum();
+        sum(10, 10);
+        sum(5, 5, 5);
 
     }//main
 }//class

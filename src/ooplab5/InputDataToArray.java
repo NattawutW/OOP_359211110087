@@ -21,7 +21,7 @@ public class InputDataToArray {
 
 
     private static void showData(int[] number, int length) {
-        int total = 0; 
+        double total = 0;
         for(int i=0;i<length;i++) {
             System.out.print(number[i] + " ");
             total += number[i];

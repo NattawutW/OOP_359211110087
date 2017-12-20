@@ -27,7 +27,7 @@ public class test {
         int num = 2;
          for(int i=0;i<length;i++) {
             System.out.print(number[i] + " ");
-             num % number[i];
+
          }
             System.out.println();
 

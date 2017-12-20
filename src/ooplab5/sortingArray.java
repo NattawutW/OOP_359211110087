@@ -5,7 +5,7 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class sortingArray {
+    public class sortingArray {
     private static final int MAX = 10;
     private static int number[] = new int[MAX];
     public static void main(String[] args) {
@@ -18,9 +18,22 @@ public class sortingArray {
         //ascending order
        sortingData(number);
 //        sortingDataDesending(number);
+        sortingDataDesending(number);
 
 
     }//main
+
+    private static void sortingDataDesending(int[] number) {
+        System.out.println("Desending Order: ");
+        Integer[] num = new Integer[number.length];
+        int i = 0;
+        for (int val : number) {
+            num[i++] = val;
+        }
+        Arrays.sort(num, Collections.reverseOrder());
+        showData(number, num.length);
+
+    }
 
 //    private static void sortingDataDesending(int[] number) {
 //        System.out.print("Desending order: ");

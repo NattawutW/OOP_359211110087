@@ -9,7 +9,7 @@ public class Student extends Person{
     private String id;
     private String program;
 
-    public Student(String name, String gender, Date dateofBirth, int age, String id, String program) {
+    public Student(String name, String gender, String dateofBirth, int age, String id, String program) {
         super(name, gender, dateofBirth, age);
         this.id = id;
         this.program = program;

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d8c46de-9a57-4ea1-ae97-1bc9d893076d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/EmployeeApp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -82,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
@@ -101,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="EmployeeApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/EmployeeApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -650,7 +648,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517366883297</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Inheritance : employee">
+      <created>1517369241504</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1517369241504</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -717,7 +722,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Testing Loop While" />
     <MESSAGE value="TestCondition" />
     <MESSAGE value="Calgrade" />
     <MESSAGE value="testswtich" />
@@ -742,7 +746,8 @@
     <MESSAGE value="Inheritance : person" />
     <MESSAGE value="Inheritance : Student" />
     <MESSAGE value="Inheritance : App" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance : App" />
+    <MESSAGE value="Inheritance : employee" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance : employee" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1165,14 +1170,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab8/EmployeeApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1187,6 +1184,14 @@
             <element signature="e#857#858#0" expanded="true" />
             <element signature="e#901#902#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/EmployeeApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>

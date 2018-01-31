@@ -43,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -56,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -649,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517370623978</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Inheritance : abstratclass dog">
+      <created>1517370635446</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1517370635446</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -716,7 +723,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="testloopfor" />
     <MESSAGE value="testdowhile" />
     <MESSAGE value="TestNestLoop" />
     <MESSAGE value="TestMethods" />
@@ -741,7 +747,8 @@
     <MESSAGE value="Inheritance : employeeapp" />
     <MESSAGE value="Inheritance : abstratclass pet" />
     <MESSAGE value="Inheritance : abstratclass petapp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance : abstratclass petapp" />
+    <MESSAGE value="Inheritance : abstratclass dog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance : abstratclass dog" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1146,14 +1153,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab8/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Ppetapp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1203,6 +1202,14 @@
             <element signature="e#89#90#0" expanded="true" />
             <element signature="e#121#122#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

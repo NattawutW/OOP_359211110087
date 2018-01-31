@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d8c46de-9a57-4ea1-ae97-1bc9d893076d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/PersonApp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab8/Person.java" afterPath="$PROJECT_DIR$/src/ooplab8/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab8/Student.java" afterPath="$PROJECT_DIR$/src/ooplab8/Student.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -606,12 +603,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517365896742</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Inheritance : App">
+      <created>1517366773672</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1517366773672</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -673,7 +676,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Testing Variables" />
     <MESSAGE value="Testing Loop While" />
     <MESSAGE value="TestCondition" />
     <MESSAGE value="Calgrade" />
@@ -698,7 +700,8 @@
     <MESSAGE value="class and object : SuperCar" />
     <MESSAGE value="Inheritance : person" />
     <MESSAGE value="Inheritance : Student" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance : Student" />
+    <MESSAGE value="Inheritance : App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance : App" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

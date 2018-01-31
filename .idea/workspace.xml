@@ -99,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="triangle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="triangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="267">
@@ -119,7 +119,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShapeApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ShapeApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/ShapeApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -752,7 +752,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517372359332</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Inheritance : interface triangle">
+      <created>1517372376833</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1517372376833</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -819,7 +826,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TestWhileLoop" />
     <MESSAGE value="TestArray" />
     <MESSAGE value="InputDataToArray" />
     <MESSAGE value="Operator IN array" />
@@ -844,7 +850,8 @@
     <MESSAGE value="Inheritance : abstratclass catapp" />
     <MESSAGE value="Inheritance : interface Shape" />
     <MESSAGE value="Inheritance : rectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance : rectangle" />
+    <MESSAGE value="Inheritance : interface triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance : interface triangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1274,14 +1281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab8/ShapeApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1324,6 +1323,14 @@
             <element signature="e#551#552#0" expanded="true" />
             <element signature="e#626#627#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/ShapeApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

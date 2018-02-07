@@ -1,10 +1,10 @@
-package ooplab8;
+package ooplab9;
 
 public class Job {
     private String position;
     private Double salary;
 
-    public Job(String position, Double salary) {
+    public Job(String position, double salary) {
         this.position = position;
         this.salary = salary;
     }

@@ -4,16 +4,16 @@ public class Person {
     private String personID;
     private String name;
     private String Address;
-    private String job;
+    private Job job;
 
-    public Person(String personID, String name, String address, String job) {
+    public Person(String personID, String name, String address, Job job) {
         this.personID = personID;
         this.name = name;
         Address = address;
         this.job = job;
     }
 
-    public Person() {
+    public Person(String s, String rungaroon, String s1) {
     }
 
     @Override
@@ -50,11 +50,11 @@ public class Person {
         Address = address;
     }
 
-    public String getJob() {
+    public Job getJob() {
         return job;
     }
 
-    public void setJob(String job) {
+    public void setJob(Job job) {
         this.job = job;
     }
 }
